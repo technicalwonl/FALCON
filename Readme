@@ -1,0 +1,59 @@
+TEAM WHILE CODERS  
+TEAM MEMBERS:
+1. Vemula Sai Sheshank
+2. MD. Mohin
+3. K. Adhi
+
+� 1. Title – Falcon AI
+This project focuses on developing FALCON AI, a voice-controlled desktop assistant 
+that works like Jarvis from Iron Man. The system allows users to control their computer
+entirely through voice commands. FALCON AI listens to user instructions, understands them,
+and performs various desktop tasks automatically without the need for manual keyboard or
+mouse interaction. 
+
+� 2. Objective 
+The main objective of FALCON AI is to make desktop interaction faster, smarter, and
+hands-free. It aims to help users perform daily computer operations such as opening
+applications, managing files, browsing the internet, and executing system commands using 
+only voice. This also improves accessibility for users who find traditional input devices
+difficult to use.
+
+� 3. Tools Used 
+FALCON AI is built using Python and voice processing libraries for speech recognition and 
+text-to-speech. System automation libraries are used to control desktop applications and 
+operating system functions. The assistant processes voice input, converts it into commands, 
+and executes the corresponding desktop task in real time. 
+
+� 4. Methodology 
+The project starts by capturing the user’s voice through a microphone. The speech is converted
+into text using speech recognition. The command is then analyzed and matched with predefined
+actions. Once recognized, FALCON AI executes the task such as opening software, searching online,
+or controlling system settings. Continuous testing was performed to improve accuracy and 
+responsiveness.
+
+� 5. Output 
+The output of this project is a fully functional Jarvis-like AI assistant that can:
+
+1. Open and close desktop applications
+
+2. Perform system tasks through voice
+
+3. Search the web
+
+4. Respond with voice feedback
+
+Users interact with the system naturally, and FALCON AI responds like a personal desktop assistant.
+
+� 6. Result 
+FALCON AI successfully executed desktop operations through voice commands with good accuracy. 
+The assistant reduced the need for manual input and improved task efficiency. The project proves
+that voice-controlled AI can effectively manage everyday desktop activities.
+
+� 7. Conclusion 
+This project demonstrates how artificial intelligence and voice recognition can transform the 
+way users interact with computers. FALCON AI provides a smart, hands-free, and futuristic
+desktop experience similar to Jarvis. It is a step toward intelligent personal assistants that
+can simplify digital tasks and improve productivity.
+ 
+9.GitHub Profile 
+https://github.com/technicalwonl/FALCON
